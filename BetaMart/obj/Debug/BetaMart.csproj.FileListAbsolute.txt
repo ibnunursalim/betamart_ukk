@@ -1,0 +1,21 @@
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.csprojAssemblyReference.cache
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.Properties.Resources.resources
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.FormUtama.resources
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.GenerateResource.cache
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.CoreCompileInputs.cache
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\bin\Debug\BetaMart.exe.config
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\bin\Debug\BetaMart.exe
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\bin\Debug\BetaMart.pdb
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.exe
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.pdb
+E:\Sekolah XII RPL 3\Bootcamp\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.FormLogin.resources
+C:\UKK KABEH\OOP\BetaMart\BetaMart\bin\Debug\BetaMart.exe.config
+C:\UKK KABEH\OOP\BetaMart\BetaMart\bin\Debug\BetaMart.exe
+C:\UKK KABEH\OOP\BetaMart\BetaMart\bin\Debug\BetaMart.pdb
+C:\UKK KABEH\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.AssemblyReference.cache
+C:\UKK KABEH\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.Properties.Resources.resources
+C:\UKK KABEH\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.FormUtama.resources
+C:\UKK KABEH\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.GenerateResource.cache
+C:\UKK KABEH\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.CoreCompileInputs.cache
+C:\UKK KABEH\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.exe
+C:\UKK KABEH\OOP\BetaMart\BetaMart\obj\Debug\BetaMart.pdb
